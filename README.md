@@ -35,7 +35,7 @@ AI-powered smart security camera built on a Jetson Orin Nano.
 ### 🛠 Tech Stack
 - **Languages:** Python, Java, C, C++, JavaScript, HTML, CSS  
 - **Databases:** MySQL, Supabase (PostgreSQL, Auth, Storage)  
-- **Frameworks & Tools:** React, Flask, OpenCV, Streamlit  
+- **Frameworks & Tools:** React, Flask, FastAPI, OpenCV, Streamlit  
 - **AI & Data:** NumPy, Pandas, scikit-learn, computer vision 
 ---
 
