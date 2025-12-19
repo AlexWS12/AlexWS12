@@ -1,4 +1,49 @@
-## Hi there 👋
+## Hello there 👋 I’m Alex
+
+I’m a Computer Science student at Florida International University with a strong interest in building intelligent systems that connect software, hardware, and data. I enjoy hands-on projects where AI meets the real world, especially in robotics, IoT, and computer vision.
+
+- 🛠️ I’m currently working on AI-powered applications, computer vision systems, and hardware integrated projects  
+- 📖 I’m currently learning machine learning, data science methods, embedded systems, and scalable backend development  
+- 🤝 I’m looking to collaborate on projects related to IoT, robotics, AI ML, and data-driven systems  
+- 📫 How to reach me:  
+  - Email: alexwaisman12@gmail.com  
+  - LinkedIn: [add-your-link-here ](https://www.linkedin.com/in/alex-waisman-402070336/) 
+- 😄 Pronouns: he/him  
+
+---
+
+### 🚀 Featured Project
+
+**[EVE – Enhanced Vision Entity](https://github.com/AlexWS12/sharkbytes2025)** 
+AI-powered smart security camera built on a Jetson Orin Nano.  
+- Real-time object detection and tracking  
+- Servo-controlled hardware mount and live dashboard  
+- Cloud logging and alerts using Supabase  
+🏆 Winner: Best Use of ARM & 2nd Overall at SharkByte Hackathon 2025 (Miami, FL)  
+
+---
+
+### 🧠 Interests
+- 🤖 Robotics and embedded systems  
+- 📡 Internet of Things (IoT)  
+- 🧠 Artificial Intelligence and Machine Learning  
+- 📊 Data science and analytics  
+- 🎹 Creative AI applications  
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, Java, C, C++, JavaScript, HTML, CSS  
+- **Databases:** MySQL, Supabase (PostgreSQL, Auth, Storage)  
+- **Frameworks & Tools:** React, Flask, OpenCV, Streamlit  
+- **AI & Data:** NumPy, Pandas, scikit-learn, computer vision 
+---
+
+### 🎓 Background
+- BS in Computer Science, Florida International University (Expected Spring 2027)  
+- Associate in Arts in Computer Science, Miami Dade College  
+- International Baccalaureate (IB) Diploma Recipient  
+
 
 <!--
 **AlexWS12/AlexWS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
