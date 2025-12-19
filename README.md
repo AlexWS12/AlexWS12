@@ -7,7 +7,7 @@ I’m a Computer Science student at Florida International University with a stro
 - 🤝 I’m looking to collaborate on projects related to IoT, robotics, AI ML, and data-driven systems  
 - 📫 How to reach me:  
   - Email: alexwaisman12@gmail.com  
-  - LinkedIn: [add-your-link-here ](https://www.linkedin.com/in/alex-waisman-402070336/) 
+  - LinkedIn: [https://www.linkedin.com/in/alex-waisman-402070336/]
 - 😄 Pronouns: he/him  
 
 ---
