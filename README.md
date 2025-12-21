@@ -40,10 +40,6 @@ AI-powered smart security camera built on a Jetson Orin Nano.
 - **Visualization:** Matplotlib
 ---
 
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWS12&layout=compact)
-
 ### 🎓 Background
 - BS in Computer Science, Florida International University (Expected Spring 2027)  
 - Associate in Arts in Computer Science, Miami Dade College  
