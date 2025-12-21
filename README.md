@@ -8,7 +8,7 @@ I’m a Computer Science student at Florida International University with a stro
 - 📫 How to reach me:  
   - Email: alexwaisman12@gmail.com  
   - LinkedIn: www.linkedin.com/in/alex-waisman
-- 😄 Pronouns: he/him  
+- 🚹 Pronouns: he/him  
 
 ---
 
