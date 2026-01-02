@@ -28,7 +28,7 @@ AI-powered smart security camera built on a Jetson Orin Nano.
 - 📡 Internet of Things (IoT)  
 - 👁️ Computer Vision
 - 🧠 Artificial Intelligence and Machine Learning  
-- 📊 Data science/analytics  
+- 📊 Data science and Analytics  
 - 🎹 Creative AI applications  
 
 ---
