@@ -2,9 +2,9 @@
 
 I’m a Computer Science student at Florida International University with a strong interest in building intelligent systems that connect software, hardware, and data. I enjoy hands-on projects where AI meets the real world, especially in robotics, IoT, and computer vision.
 
-- 🛠️ I’m currently working on AI-powered applications, computer vision systems, and hardware integrated projects  
-- 📖 I’m currently learning machine learning, data science methods, embedded systems, and scalable backend development  
-- 🤝 I’m looking to collaborate on projects related to IoT, robotics, AI ML, and data-driven systems  
+- 🛠️ I’m currently working on AI-powered applications, computer vision systems, and hardware integrated projects.  
+- 📖 I’m currently learning machine learning, data science methods, embedded systems, and scalable backend development. 
+- 🤝 I’m looking to collaborate on projects related to IoT, robotics, AI ML, and data-driven systems.
 - 📫 How to reach me:  
   - Email: alexwaisman12@gmail.com  
   - LinkedIn: www.linkedin.com/in/alex-waisman
