@@ -2,7 +2,7 @@
 
 I’m a Computer Science student at Florida International University with a strong interest in building intelligent systems that connect software, hardware, and data. I am passionate about hands-on projects where AI meets the real world, especially in robotics, IoT, and computer vision.
 
-- 🛠️ I’m currently working on AI-powered applications, computer vision systems, and hardware integrated projects.  
+- 🛠️ I’m currently working on AI-powered applications, Machine Learning techniques (classifiers), computer vision systems, and hardware integrated projects.  
 - 📖 I’m currently learning signal processing, machine learning, data science methods, embedded systems, and scalable backend development. 
 - 🤝 I’m looking to collaborate on projects related to IoT, robotics, AI ML, and data-driven systems.
 - 📫 How to reach me:  
