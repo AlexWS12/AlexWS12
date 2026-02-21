@@ -4,7 +4,7 @@ I’m a Computer Science student at Florida International University with a stro
 
 - 🛠️ I’m currently working on AI-powered applications, Machine Learning techniques (classifiers), computer vision systems, and hardware integrated projects.  
 - 📖 I’m currently learning signal processing, machine learning, data science methods, embedded systems, and scalable backend development. 
-- 🤝 I’m looking to collaborate on projects related to IoT, robotics, AI ML, and data-driven systems.
+- 🤝 I’m looking to collaborate on projects related to AI/ML, IoT, robotics, and data-driven systems.
 - 📫 How to reach me:  
   - Email: alexwaisman12@gmail.com  
   - LinkedIn: www.linkedin.com/in/alex-waisman
