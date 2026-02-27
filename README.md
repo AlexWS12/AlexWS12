@@ -19,7 +19,7 @@ AI-powered smart security camera built on a Jetson Orin Nano.
 - Real-time object detection and tracking  
 - Servo-controlled hardware mount and live dashboard  
 - Cloud logging and alerts using Supabase  
-🏆 **Winner:** Best Use of ARM & 2nd Overall at SharkByte Hackathon 2025 (Miami, FL)  
+🏆 **Winner:** Best Use of ARM & 2nd Best Overall at SharkByte Hackathon 2025 (Miami, FL)  
 
 ---
 
