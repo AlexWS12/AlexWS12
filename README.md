@@ -47,6 +47,7 @@ AI-powered smart security camera built on a Jetson Orin Nano.
 - Associate in Arts in Computer Science, Miami Dade College  
 - International Baccalaureate (IB) Diploma Recipient  
 
+*"Ideas are just ideas".*
 
 <!--
 **AlexWS12/AlexWS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
