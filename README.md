@@ -1,6 +1,6 @@
 ## Hello there 👋 I’m Alex
 
-I’m a Computer Science student at Florida International University with a strong interest in building intelligent systems that connect software, hardware, and data. I am passionate about hands-on projects where AI meets the real world, especially in robotics, IoT, and computer vision.
+I’m a Computer Science student at Florida International University with a strong interest in building intelligent systems that connect software, hardware, and data. I am passionate about hands-on projects where AI meets the real world, especially in robotics, IoT, and computer vision. 3X Hackathon Winner 🏆
 
 - 🛠️ I’m currently working on AI-powered applications, Machine Learning techniques (classifiers/regression), computer vision systems, and hardware integrated projects.  
 - 📖 I’m currently learning signal processing, machine learning, data science methods, embedded systems, and scalable backend development. 
